@@ -42,4 +42,4 @@ Abort the doom.
 
 This triggers the system to be wiped and reinstalled.
 
-Note: Unless `--yes` is provided, it will prompt you before proceeding.
+Note: Unless `--yes` is provided, it will prompt before proceeding.
