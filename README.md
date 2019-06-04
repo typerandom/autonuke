@@ -2,6 +2,8 @@
 
 Tool to automatically nuke and restore my workstation on a scheduled basis.
 
+<img src="static/avatar.jpg" />
+
 ## Why
 
 - Enforce a habit of never relying on hardware.
