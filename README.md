@@ -19,6 +19,7 @@ Tool to automatically nuke my macOS workstation on a scheduled basis.
 
 - https://www.jamf.com/blog/reinstall-a-clean-macos-with-one-button/
 - https://grahamrpugh.com/2018/03/26/reinstall-macos-from-system-volume.html
+- https://github.com/munki/macadmin-scripts
 
 ## API
 
