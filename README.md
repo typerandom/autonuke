@@ -1,6 +1,6 @@
 # doomsday
 
-Tool to automatically nuke my macOS workstation on a scheduled basis.
+Tool to automatically nuke a macOS system on a scheduled basis.
 
 <img src="static/avatar.jpg" />
 
